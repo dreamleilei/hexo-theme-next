@@ -123,7 +123,10 @@ font:
 #social:
   #LinkLabel: Link
 
-
+social:
+  enable: true
+  GitHub: https://github.com/dreamleilei
+  Weibo: https://weibo.com/dreamleilei
 # Social Links Icons
 # Icon Mapping:
 #   Map a menu item to a specific FontAwesome icon name.
@@ -133,9 +136,9 @@ social_icons:
   enable: true
   # Icon Mappings.
   # KeyMapsToSocalItemKey: NameOfTheIconFromFontAwesome
-  GitHub: https://github.com/dreamleilei
+  GitHub: github
   Twitter: twitter
-  Weibo: https://weibo.com/dreamleilei
+  Weibo: weibo
 
 
 # Sidebar Avatar
