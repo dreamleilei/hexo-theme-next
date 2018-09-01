@@ -124,7 +124,6 @@ font:
   #LinkLabel: Link
 
 social:
-  enable: true
   GitHub: https://github.com/dreamleilei
   Weibo: https://weibo.com/dreamleilei
 # Social Links Icons
@@ -133,7 +132,6 @@ social:
 #   Key is the name of the item and value is the name of FontAwsome icon. Key is case-senstive.
 #   When an globe mask icon presenting up means that the item has no mapping icon.
 social_icons:
-  enable: true
   # Icon Mappings.
   # KeyMapsToSocalItemKey: NameOfTheIconFromFontAwesome
   GitHub: github
