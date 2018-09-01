@@ -133,9 +133,9 @@ social_icons:
   enable: true
   # Icon Mappings.
   # KeyMapsToSocalItemKey: NameOfTheIconFromFontAwesome
-  GitHub: github
+  GitHub: https://github.com/dreamleilei
   Twitter: twitter
-  Weibo: weibo
+  Weibo: https://weibo.com/dreamleilei
 
 
 # Sidebar Avatar
