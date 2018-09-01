@@ -141,7 +141,7 @@ social_icons:
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.jpg
 # in site  directory(source/uploads): /uploads/avatar.jpg
-#avatar:
+avatar: https://avatars1.githubusercontent.com/u/10141940?s=460&v=4
 
 
 # Table Of Contents in the Sidebar
@@ -389,6 +389,10 @@ vendors:
 css: css
 js: js
 images: images
+
+# Local search
+local_search:
+  enable: true
 
 # Theme version
 version: 5.0.1
